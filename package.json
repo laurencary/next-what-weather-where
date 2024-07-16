@@ -7,14 +7,19 @@
     "type-check": "tsc"
   },
   "dependencies": {
+    "@ant-design/icons": "^5.3.7",
+    "antd": "^5.19.2",
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@types/node": "^12.12.21",
-    "@types/react": "^17.0.2",
-    "@types/react-dom": "^17.0.1",
-    "typescript": "^4.8.3"
+    "@fullhuman/postcss-purgecss": "^6.0.0",
+    "@types/node": "^12.20.55",
+    "@types/react": "^17.0.80",
+    "@types/react-dom": "^17.0.25",
+    "postcss-preset-env": "^9.6.0",
+    "tailwindcss": "^3.4.6",
+    "typescript": "^4.9.5"
   }
 }
